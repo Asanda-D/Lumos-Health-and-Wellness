@@ -1,1 +1,1 @@
-# Lumos-Health-and-Wellness Project
+# Lumos-Health-and-Wellness-Project
